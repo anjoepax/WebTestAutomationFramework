@@ -1,0 +1,12 @@
+package com.qa.enums;
+
+public enum BrowserExecutionType {
+    CHROME_LOCAL_BROWSER,
+    FIREFOX_LOCAL_BROWSER,
+    EDGE_LOCAL_BROWSER,
+    CHROME_GRID_BROWSER,
+    FIREFOX_GRID_BROWSER,
+    CHROME_BS_BROWSER,
+    FIREFOX_BS_BROWSER,
+    EDGE_BS_BROWSER
+}
